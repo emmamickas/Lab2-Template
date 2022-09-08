@@ -1,4 +1,5 @@
-# Lab2-Template
+# Lab2
+
 Follow KC's write up of the assignment here: https://eecs.wsu.edu/~cs360/LAB2.html
 
 Place your source code in directly the directory. It is preferred that you use the existing t.c format to place your code, however, you may modify it as long as the `mk` sh script compiles your code (which of course you may modify such that it does compile your code.)
