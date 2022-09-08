@@ -2,7 +2,7 @@
 
 Follow KC's write up of the assignment here: https://eecs.wsu.edu/~cs360/LAB2.html
 
-Place your source code in directly the directory. It is preferred that you use the existing t.c format to place your code, however, you may modify it as long as the `mk` sh script compiles your code (which of course you may modify such that it does compile your code.)
+Place your source code in directly the src directory. It is preferred that you use the existing t.c format to place your code, however, you may modify it as long as the `mk` sh script compiles your code (which of course you may modify such that it does compile your code.)
 
 ## To Turn In:
 Push your files to GitHub Classroom (see [here](https://eecs.wsu.edu/~cs360/ta_resources/howto-linux-cmds.html) for more details if you do not know how to submit using Git/GitHub Classroom).
