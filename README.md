@@ -13,8 +13,3 @@ Note you must `git push` your code to submit it. Submissions automatically occur
 As usual, samples may be found at https://eecs.wsu.edu/~cs360/samples/LAB2. You may download them via the `wget` utility (see the [How-To Linux Command page](https://eecs.wsu.edu/~cs360/ta_resources/howto-linux-cmds.html) on the course webpage if you are unfamiliar).
 
 Note both `lab2.bin` and `lab2.static.bin` are executables and may be run after using `chmod +x`, whereas `lab2base.c` is starter code.
-
-If you are having difficulty pressing "enter" in the sample solution, run the following command:
-```
-stty sane
-```
